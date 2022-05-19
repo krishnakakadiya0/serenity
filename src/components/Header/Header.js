@@ -15,7 +15,7 @@ function Header(props) {
         <nav id="navbar" className="navbar">
           <ul>
             <li>
-              <NavLink to={'/home'}>Home</NavLink>
+              <NavLink to={'/'}>Home</NavLink>
             </li>
             <li className="dropdown">
               <a href="#">
