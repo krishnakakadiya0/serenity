@@ -91,7 +91,7 @@ function About(props) {
           </div>
           <div className="row">
             <div className="col-lg-6 video-box align-self-baseline position-relative">
-              <img src="assets/img/about.jpg" className="img-fluid" alt />
+              <img src="assets/img/about.jpg" className="img-fluid" alt="" />
               <a
                 href="https://www.youtube.com/watch?v=jDDaplaOz7Q"
                 className="glightbox play-btn mb-4"
@@ -152,11 +152,7 @@ function About(props) {
           </div>
           <div className="row content">
             <div className="col-md-5" data-aos="fade-right">
-              <img
-                src="assets/img/work-process-1.png"
-                className="img-fluid"
-                alt
-              />
+              <img src="assets/img/work-process-1.png" className="img-fluid" alt=""/>
             </div>
             <div className="col-md-7 pt-4" data-aos="fade-left">
               <h3>
@@ -181,11 +177,7 @@ function About(props) {
           </div>
           <div className="row content">
             <div className="col-md-5 order-1 order-md-2" data-aos="fade-left">
-              <img
-                src="assets/img/work-process-2.png"
-                className="img-fluid"
-                alt
-              />
+              <img src="assets/img/work-process-2.png" className="img-fluid" alt=""/>
             </div>
             <div
               className="col-md-7 pt-5 order-2 order-md-1"
@@ -207,11 +199,7 @@ function About(props) {
           </div>
           <div className="row content">
             <div className="col-md-5" data-aos="fade-right">
-              <img
-                src="assets/img/work-process-3.png"
-                className="img-fluid"
-                alt
-              />
+              <img src="assets/img/work-process-3.png" className="img-fluid" alt=""/>
             </div>
             <div className="col-md-7 pt-5" data-aos="fade-left">
               <h3>
@@ -241,11 +229,7 @@ function About(props) {
           </div>
           <div className="row content">
             <div className="col-md-5 order-1 order-md-2" data-aos="fade-left">
-              <img
-                src="assets/img/work-process-4.png"
-                className="img-fluid"
-                alt
-              />
+              <img src="assets/img/work-process-4.png" className="img-fluid" alt="" />
             </div>
             <div
               className="col-md-7 pt-5 order-2 order-md-1"
@@ -285,7 +269,7 @@ function About(props) {
           </div>
           <div className="row">
             <div className="col-lg-6" data-aos="fade-right">
-              <img src="assets/img/skills-img.jpg" className="img-fluid" alt />
+              <img src="assets/img/skills-img.jpg" className="img-fluid" alt=""/>
             </div>
             <div className="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
               <h3>
@@ -382,56 +366,48 @@ function About(props) {
                 <img
                   src="assets/img/clients/client-1.png"
                   className="img-fluid"
-                  alt
                 />
               </div>
               <div className="swiper-slide">
                 <img
                   src="assets/img/clients/client-2.png"
                   className="img-fluid"
-                  alt
                 />
               </div>
               <div className="swiper-slide">
                 <img
                   src="assets/img/clients/client-3.png"
                   className="img-fluid"
-                  alt
                 />
               </div>
               <div className="swiper-slide">
                 <img
                   src="assets/img/clients/client-4.png"
                   className="img-fluid"
-                  alt
                 />
               </div>
               <div className="swiper-slide">
                 <img
                   src="assets/img/clients/client-5.png"
                   className="img-fluid"
-                  alt
                 />
               </div>
               <div className="swiper-slide">
                 <img
                   src="assets/img/clients/client-6.png"
                   className="img-fluid"
-                  alt
                 />
               </div>
               <div className="swiper-slide">
                 <img
                   src="assets/img/clients/client-7.png"
                   className="img-fluid"
-                  alt
                 />
               </div>
               <div className="swiper-slide">
                 <img
                   src="assets/img/clients/client-8.png"
                   className="img-fluid"
-                  alt
                 />
               </div>
             </div>

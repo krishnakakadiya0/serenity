@@ -35,22 +35,18 @@ function Team(props) {
             <div className="col-lg-4 col-md-6 d-flex align-items-stretch">
               <div className="member" data-aos="fade-up">
                 <div className="member-img">
-                  <img
-                    src="assets/img/team/team-1.jpg"
-                    className="img-fluid"
-                    alt
-                  />
+                  <img src="assets/img/team/team-1.jpg" className="img-fluid" alt=""/>
                   <div className="social">
-                    <a href>
+                    <a href="#">
                       <i className="bi bi-twitter" />
                     </a>
-                    <a href>
+                    <a href="#">
                       <i className="bi bi-facebook" />
                     </a>
-                    <a href>
+                    <a href="#">
                       <i className="bi bi-instagram" />
                     </a>
-                    <a href>
+                    <a href="#">
                       <i className="bi bi-linkedin" />
                     </a>
                   </div>
@@ -71,22 +67,18 @@ function Team(props) {
             <div className="col-lg-4 col-md-6 d-flex align-items-stretch">
               <div className="member" data-aos="fade-up" data-aos-delay={100}>
                 <div className="member-img">
-                  <img
-                    src="assets/img/team/team-2.jpg"
-                    className="img-fluid"
-                    alt
-                  />
+                  <img src="assets/img/team/team-2.jpg" className="img-fluid" alt=""/>
                   <div className="social">
-                    <a href>
+                    <a href="#">
                       <i className="bi bi-twitter" />
                     </a>
-                    <a href>
+                    <a href="#">
                       <i className="bi bi-facebook" />
                     </a>
-                    <a href>
+                    <a href="#">
                       <i className="bi bi-instagram" />
                     </a>
-                    <a href>
+                    <a href="#">
                       <i className="bi bi-linkedin" />
                     </a>
                   </div>
@@ -105,22 +97,18 @@ function Team(props) {
             <div className="col-lg-4 col-md-6 d-flex align-items-stretch">
               <div className="member" data-aos="fade-up" data-aos-delay={200}>
                 <div className="member-img">
-                  <img
-                    src="assets/img/team/team-3.jpg"
-                    className="img-fluid"
-                    alt
-                  />
+                  <img src="assets/img/team/team-3.jpg" className="img-fluid" alt=""/>
                   <div className="social">
-                    <a href>
+                    <a href="#">
                       <i className="bi bi-twitter" />
                     </a>
-                    <a href>
+                    <a href="#">
                       <i className="bi bi-facebook" />
                     </a>
-                    <a href>
+                    <a href="#">
                       <i className="bi bi-instagram" />
                     </a>
-                    <a href>
+                    <a href="#">
                       <i className="bi bi-linkedin" />
                     </a>
                   </div>
@@ -140,22 +128,18 @@ function Team(props) {
             <div className="col-lg-4 col-md-6 d-flex align-items-stretch">
               <div className="member" data-aos="fade-up">
                 <div className="member-img">
-                  <img
-                    src="assets/img/team/team-4.jpg"
-                    className="img-fluid"
-                    alt
-                  />
+                  <img src="assets/img/team/team-4.jpg" className="img-fluid" alt=""/>
                   <div className="social">
-                    <a href>
+                    <a href="#">
                       <i className="bi bi-twitter" />
                     </a>
-                    <a href>
+                    <a href="#">
                       <i className="bi bi-facebook" />
                     </a>
-                    <a href>
+                    <a href="#">
                       <i className="bi bi-instagram" />
                     </a>
-                    <a href>
+                    <a href="#">
                       <i className="bi bi-linkedin" />
                     </a>
                   </div>
@@ -175,22 +159,18 @@ function Team(props) {
             <div className="col-lg-4 col-md-6 d-flex align-items-stretch">
               <div className="member" data-aos="fade-up" data-aos-delay={100}>
                 <div className="member-img">
-                  <img
-                    src="assets/img/team/team-5.jpg"
-                    className="img-fluid"
-                    alt
-                  />
+                  <img src="assets/img/team/team-5.jpg" className="img-fluid" alt=""/>
                   <div className="social">
-                    <a href>
+                    <a href="#">
                       <i className="bi bi-twitter" />
                     </a>
-                    <a href>
+                    <a href="#">
                       <i className="bi bi-facebook" />
                     </a>
-                    <a href>
+                    <a href="#">
                       <i className="bi bi-instagram" />
                     </a>
-                    <a href>
+                    <a href="#">
                       <i className="bi bi-linkedin" />
                     </a>
                   </div>
@@ -212,22 +192,18 @@ function Team(props) {
             <div className="col-lg-4 col-md-6 d-flex align-items-stretch">
               <div className="member" data-aos="fade-up" data-aos-delay={200}>
                 <div className="member-img">
-                  <img
-                    src="assets/img/team/team-6.jpg"
-                    className="img-fluid"
-                    alt
-                  />
+                  <img src="assets/img/team/team-6.jpg" className="img-fluid" alt=""/>
                   <div className="social">
-                    <a href>
+                    <a href="#">
                       <i className="bi bi-twitter" />
                     </a>
-                    <a href>
+                    <a href="#">
                       <i className="bi bi-facebook" />
                     </a>
-                    <a href>
+                    <a href="#">
                       <i className="bi bi-instagram" />
                     </a>
-                    <a href>
+                    <a href="#">
                       <i className="bi bi-linkedin" />
                     </a>
                   </div>

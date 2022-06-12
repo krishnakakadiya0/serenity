@@ -69,7 +69,7 @@ function Footer(props) {
                 magna veniam enim veniam illum dolore legam minim quorum culpa
                 amet magna export quem marada parida nodela caramase seza.
               </p>
-              <form action method="post">
+              <form method="post">
                 <input type="email" name="email" />
                 <input type="submit" defaultValue="Subscribe" />
               </form>

@@ -52,7 +52,7 @@ function Portfolio(props) {
                 <img
                   src="assets/img/portfolio/portfolio-1.jpg"
                   className="img-fluid"
-                  alt
+                  alt=""
                 />
                 <div className="portfolio-info">
                   <h4>App 1</h4>
@@ -78,7 +78,7 @@ function Portfolio(props) {
                 <img
                   src="assets/img/portfolio/portfolio-2.jpg"
                   className="img-fluid"
-                  alt
+                  alt=""
                 />
                 <div className="portfolio-info">
                   <h4>Web 3</h4>
@@ -104,7 +104,7 @@ function Portfolio(props) {
                 <img
                   src="assets/img/portfolio/portfolio-3.jpg"
                   className="img-fluid"
-                  alt
+                  alt=""
                 />
                 <div className="portfolio-info">
                   <h4>App 2</h4>
@@ -130,7 +130,7 @@ function Portfolio(props) {
                 <img
                   src="assets/img/portfolio/portfolio-4.jpg"
                   className="img-fluid"
-                  alt
+                  alt=""
                 />
                 <div className="portfolio-info">
                   <h4>Card 2</h4>
@@ -156,7 +156,7 @@ function Portfolio(props) {
                 <img
                   src="assets/img/portfolio/portfolio-5.jpg"
                   className="img-fluid"
-                  alt
+                  alt=""
                 />
                 <div className="portfolio-info">
                   <h4>Web 2</h4>
@@ -182,7 +182,7 @@ function Portfolio(props) {
                 <img
                   src="assets/img/portfolio/portfolio-6.jpg"
                   className="img-fluid"
-                  alt
+                  alt=""
                 />
                 <div className="portfolio-info">
                   <h4>App 3</h4>
@@ -208,7 +208,7 @@ function Portfolio(props) {
                 <img
                   src="assets/img/portfolio/portfolio-7.jpg"
                   className="img-fluid"
-                  alt
+                  alt=""
                 />
                 <div className="portfolio-info">
                   <h4>Card 1</h4>
@@ -234,7 +234,7 @@ function Portfolio(props) {
                 <img
                   src="assets/img/portfolio/portfolio-8.jpg"
                   className="img-fluid"
-                  alt
+                  alt=""
                 />
                 <div className="portfolio-info">
                   <h4>Card 3</h4>
@@ -260,7 +260,7 @@ function Portfolio(props) {
                 <img
                   src="assets/img/portfolio/portfolio-9.jpg"
                   className="img-fluid"
-                  alt
+                  alt=""
                 />
                 <div className="portfolio-info">
                   <h4>Web 3</h4>

@@ -35,11 +35,7 @@ function Blog(props) {
             <div className="col-lg-8 entries">
               <article className="entry">
                 <div className="entry-img">
-                  <img
-                    src="assets/img/blog/blog-1.jpg"
-                    alt
-                    className="img-fluid"
-                  />
+                  <img src="assets/img/blog/blog-1.jpg" className="img-fluid" alt=""/>
                 </div>
                 <h2 className="entry-title">
                   <a href="blog-single.html">
@@ -82,11 +78,7 @@ function Blog(props) {
               {/* End blog entry */}
               <article className="entry">
                 <div className="entry-img">
-                  <img
-                    src="assets/img/blog/blog-2.jpg"
-                    alt
-                    className="img-fluid"
-                  />
+                  <img src="assets/img/blog/blog-2.jpg" className="img-fluid" alt=""/>
                 </div>
                 <h2 className="entry-title">
                   <a href="blog-single.html">
@@ -130,11 +122,7 @@ function Blog(props) {
               {/* End blog entry */}
               <article className="entry">
                 <div className="entry-img">
-                  <img
-                    src="assets/img/blog/blog-3.jpg"
-                    alt
-                    className="img-fluid"
-                  />
+                  <img src="assets/img/blog/blog-3.jpg" className="img-fluid" alt=""/>
                 </div>
                 <h2 className="entry-title">
                   <a href="blog-single.html">
@@ -176,11 +164,7 @@ function Blog(props) {
               {/* End blog entry */}
               <article className="entry">
                 <div className="entry-img">
-                  <img
-                    src="assets/img/blog/blog-4.jpg"
-                    alt
-                    className="img-fluid"
-                  />
+                  <img src="assets/img/blog/blog-4.jpg" className="img-fluid" alt=""/>
                 </div>
                 <h2 className="entry-title">
                   <a href="blog-single.html">
@@ -242,7 +226,7 @@ function Blog(props) {
               <div className="sidebar">
                 <h3 className="sidebar-title">Search</h3>
                 <div className="sidebar-item search-form">
-                  <form action>
+                  <form>
                     <input type="text" />
                     <button type="submit">
                       <i className="bi bi-search" />
@@ -289,7 +273,7 @@ function Blog(props) {
                 <h3 className="sidebar-title">Recent Posts</h3>
                 <div className="sidebar-item recent-posts">
                   <div className="post-item clearfix">
-                    <img src="assets/img/blog/blog-recent-1.jpg" alt />
+                    <img src="assets/img/blog/blog-recent-1.jpg" alt=""/>
                     <h4>
                       <a href="blog-single.html">
                         Nihil blanditiis at in nihil autem
@@ -298,14 +282,14 @@ function Blog(props) {
                     <time dateTime="2020-01-01">Jan 1, 2020</time>
                   </div>
                   <div className="post-item clearfix">
-                    <img src="assets/img/blog/blog-recent-2.jpg" alt />
+                    <img src="assets/img/blog/blog-recent-2.jpg" alt=""/>
                     <h4>
                       <a href="blog-single.html">Quidem autem et impedit</a>
                     </h4>
                     <time dateTime="2020-01-01">Jan 1, 2020</time>
                   </div>
                   <div className="post-item clearfix">
-                    <img src="assets/img/blog/blog-recent-3.jpg" alt />
+                    <img src="assets/img/blog/blog-recent-3.jpg" alt=""/>
                     <h4>
                       <a href="blog-single.html">
                         Id quia et et ut maxime similique occaecati ut
@@ -314,7 +298,7 @@ function Blog(props) {
                     <time dateTime="2020-01-01">Jan 1, 2020</time>
                   </div>
                   <div className="post-item clearfix">
-                    <img src="assets/img/blog/blog-recent-4.jpg" alt />
+                    <img src="assets/img/blog/blog-recent-4.jpg" alt=""/>
                     <h4>
                       <a href="blog-single.html">
                         Laborum corporis quo dara net para
@@ -323,7 +307,7 @@ function Blog(props) {
                     <time dateTime="2020-01-01">Jan 1, 2020</time>
                   </div>
                   <div className="post-item clearfix">
-                    <img src="assets/img/blog/blog-recent-5.jpg" alt />
+                    <img src="assets/img/blog/blog-recent-5.jpg" alt=""/>
                     <h4>
                       <a href="blog-single.html">
                         Et dolores corrupti quae illo quod dolor

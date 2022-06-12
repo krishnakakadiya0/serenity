@@ -69,9 +69,7 @@ function Header(props) {
               <NavLink to={'/contact'}>Contact</NavLink>
             </li>
             <li>
-              <a className="getstarted" href="about.html">
-                Get Started
-              </a>
+              <NavLink className="getstarted" to={'/login'}>Login/Signup</NavLink>
             </li>
           </ul>
           <i className="bi bi-list mobile-nav-toggle" />
